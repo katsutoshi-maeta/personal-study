@@ -1,1 +1,0 @@
-# easy_basic_machinelerning_math
